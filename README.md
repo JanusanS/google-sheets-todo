@@ -1,4 +1,4 @@
-# google-sheets-todo
+# Google Sheets TODO App
 
 ## How to Use
 
